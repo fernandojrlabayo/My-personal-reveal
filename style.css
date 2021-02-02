@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+        margin: 0px;
+        padding: 0px;
+        background-color: #161616;
+        
+
+}
+ .name{
+
+    background-image: radial-gradient(horizontal, gray,blue);
+    background-image: cover;
+}
